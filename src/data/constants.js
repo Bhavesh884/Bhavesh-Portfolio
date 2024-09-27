@@ -225,7 +225,7 @@ export const projects = [
     description:
       "Developed a full-stack web applications that allow user to become customer and ask for the service and get the response. On other side user can become Xpert and provide the required service and earn the rewards. Its a open ticket cosulting application where user can ask for the service and get the response. We have Video Streaming and Audio Streaming as well that allow customers to have proper discussions while working on the project.Implemented user authentication using Google Auth and Jwt Auth, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.",
     image:
-      "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
+      "https://ultraxpert.s3.ap-south-1.amazonaws.com/Screenshot+2024-09-27+122017.png",
     tags: [
       "React Js",
       "MongoDb",
@@ -241,16 +241,22 @@ export const projects = [
     webapp: "https://ultraxpert.in",
     member: [
       {
+        name: "Bhavesh Bhanusali",
+        img: "https://avatars.githubusercontent.com/u/98450993?s=400&u=f3583f6f46b757dece95eedb7a50e6f61d7d07d1&v=4",
+        linkedin: "https://www.linkedin.com/in/bhavesh-bhanusali/",
+        github: "https://github.com/Bhavesh884",
+      },
+      {
         name: "Naman Paliwal",
-        img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-        linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-        github: "https://github.com/rishavchanda/",
+        img: "https://avatars.githubusercontent.com/u/112724171?v=4",
+        linkedin: "https://www.linkedin.com/in/namanpaliwal/",
+        github: "https://github.com/NamanGIT32",
       },
       {
         name: "Divya Shrivastav",
-        img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-        linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-        github: "https://github.com/upasana0710",
+        img: "https://avatars.githubusercontent.com/u/102688183?v=4",
+        linkedin: "https://www.linkedin.com/in/divyaa15/",
+        github: "https://github.com/divyaa1511",
       },
     ],
   },
@@ -261,7 +267,7 @@ export const projects = [
     description:
       "A robust video conferencing platform supporting over 1,000 participants. Implemented interactive features like screen sharing and breakout rooms, enhancing user collaboration and productivity by 60%. Optimized platform performance and security with AWS services, reducing latency by 50% and improving data protection through custom authentication. ",
     image:
-      "https://user-images.githubusercontent.com/64485885/234916413-96296f13-fe4b-4cc4-b215-e72bd7c27928.png",
+      "https://ultraxpert.s3.ap-south-1.amazonaws.com/Screenshot+2024-09-27+122039.png",
     tags: [
       "React Js",
       "MongoDb",
@@ -282,7 +288,7 @@ export const projects = [
     description:
       " Swiggy-like food delivery application, featuring authentication, dynamic state management, and a config-driven UI with custom hooks, enabling seamless navigation and enhanced user experience. Implemented efficient state management and custom hooks for real-time updates on order tracking, restaurant listings, and cart operations, resulting in a 30% improvement in response time",
     image:
-      "https://github.com/rishavchanda/Brain-Tumor-Detection/raw/main/Readme_resource/Image2.png",
+      "https://ultraxpert.s3.ap-south-1.amazonaws.com/Screenshot+2024-09-27+122103.png",
     tags: ["React", "Redux", "Tailwind", "Rest API", "Javascript"],
     category: "Web Project",
     github: "https://github.com/rishavchanda/Brain-Tumor-Detection",
