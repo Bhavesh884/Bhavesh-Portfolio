@@ -10,7 +10,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Bhavesh884",
   resume:
-    "https://drive.google.com/file/d/1QMJThoYH8gxnBsH4GudJEnmd5v6Ano4j/view?usp=drive_link",
+    "https://drive.google.com/file/d/1X4OLS3giFB7GizkHh12G0IwSJ5QrhO9-/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/bhavesh-bhanusali/",
   insta: "https://www.instagram.com/humorous__idiot/",
   facebook:
