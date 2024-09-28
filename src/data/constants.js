@@ -291,7 +291,7 @@ export const projects = [
       "https://ultraxpert.s3.ap-south-1.amazonaws.com/Screenshot+2024-09-27+122103.png",
     tags: ["React", "Redux", "Tailwind", "Rest API", "Javascript"],
     category: "Web Project",
-    github: "https://github.com/rishavchanda/Brain-Tumor-Detection",
-    webapp: "https://brain-tumor.netlify.app/",
+    github: "https://github.com/Bhavesh884/Swiggy_Clone.git",
+    webapp: "https://flavourfusion32.netlify.app/",
   },
 ];
